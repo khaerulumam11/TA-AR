@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: c01e21b3daa5a7247b2dd9bfaf82e9b1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kollektif
+  fontNames:
+  - Kollektif
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2c9c37c0465385a4aaafb32a15b6b718, type: 3}
+  - {fileID: 12800000, guid: 8dbd0b387b74f8a4a86139a32b14a629, type: 3}
+  - {fileID: 12800000, guid: 359e9e6d9bb82d045b735d1b227ebcbb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
